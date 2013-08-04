@@ -3,5 +3,7 @@ class ApplicationController < ActionController::Base
   # For APIs, you may want to use :null_session instead.
   def mymethod
 
+@name ="srikanth"
+
   end
 end
